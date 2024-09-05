@@ -11,17 +11,17 @@ This resource is designed for researchers and practitioners interested in the la
   <li>Mining the network value of customers</li>
   <ul>
       <li>Domingos, Pedro and Richardson, Matt</li>
-      <li>KDD 2001 [Paper](https://homes.cs.washington.edu/~pedrod/papers/kdd01a.pdf)</li>
+      <li>KDD 2001 <a href="https://homes.cs.washington.edu/~pedrod/papers/kdd01a.pdf">Paper</a></li>
   </ul>
   <li>Evolving viral marketing strategies</li>
   <ul>
       <li>Forrest Stonedahal, William M. Rand, Uri Wilensky</li>
-      <li>GECCO 2010 [Paper](https://dl.acm.org/doi/abs/10.1145/1830483.1830701)</li>
+      <li>GECCO 2010 <a href="https://dl.acm.org/doi/abs/10.1145/1830483.1830701">Paper</a></li>
   </ul>
   <li>Influence maximization in social networks: Theories, methods and challenges</li>
   <ul>
       <li>Yuxin Ye, Yunliang Chen, Wei Han</li>
-      <li>Array Open Access Review 2022 [Paper](https://www.sciencedirect.com/science/article/pii/S2590005622000972)</li>
+      <li>Array Open Access Review 2022 <a href="https://www.sciencedirect.com/science/article/pii/S2590005622000972">Paper</a></li>
   </ul>
 </ul>
 
