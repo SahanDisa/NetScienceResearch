@@ -19,7 +19,12 @@ This resource is designed for researchers and practitioners interested in the la
   <li>Differential Adaptive Diffusion: Understanding Diversity and Learning Whom to Trust in Viral Marketing</li>
   <ul>
       <li>Hossam Sharara, William Rand, Lise Getoor</li>
-      <li>AAAI 2011<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/14136/13985">Paper</a></li>
+      <li>AAAI 2011 <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/14136/13985">Paper</a></li>
+  </ul>
+  <li>Discovering Influential Nodes from Trust Network</li>
+  <ul>
+      <li>Sabbir Ahmed, C.I Ezeife</li>
+      <li>SAC 2013 <a href="https://dl.acm.org/doi/10.1145/2480362.2480389">Paper</a></li>
   </ul>
   <li>Influence maximization in social networks: Theories, methods and challenges</li>
   <ul>
